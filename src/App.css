@@ -1,0 +1,21 @@
+
+  .App {
+    text-align: center;
+  
+    min-height: 150vh;
+  }
+
+.Produit{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  background-color: rgb(192, 113, 44);
+
+}
+.card{
+  justify-items: center;
+      margin: 36px;
+}
+.go{
+  justify-content: center;
+}
